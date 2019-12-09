@@ -1,3 +1,6 @@
+Developing an inverse modeling PDE solver
+
+
 Demo of Factoring
 =================
 This code demonstrates the use of the D-Wave system to solve a factoring
